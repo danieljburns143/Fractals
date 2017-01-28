@@ -1,6 +1,5 @@
 // fractals.cpp
 // Daniel Burns
-// Lab 11
 
 #include <iostream>
 #include <unistd.h>
